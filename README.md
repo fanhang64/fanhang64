@@ -1,7 +1,7 @@
 ### Hi boys 👋
 
 - 🌈 I’m currently working on home. 😎
-- 🐳 I’m currently learning python. 😅
+- 🐳 I’m currently learning Python/Go. 😅
 - 🤔 I'm thinking about how to make more+ money. 😁
 - 💬 Ask me about `da bao jian`. 😍
 - 📫 How to reach me: [fanhang64.github.io](https://fanhang64.github.io)
